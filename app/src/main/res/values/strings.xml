@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AlarmApplication</string>
+    <string name="CHANEL_ID">Alarm</string>
+    <string name="channel_description">Alarm</string>
+</resources>
